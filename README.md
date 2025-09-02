@@ -19,7 +19,7 @@ Demo: https://drive.google.com/file/d/1BZ6viH2rCFhZeYTYkAvUNLq7iehFB6VT/view?usp
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/DrParticlePhysicist/HandGestureRecognition.git
 cd HandGestureRecognition
 ```
 
