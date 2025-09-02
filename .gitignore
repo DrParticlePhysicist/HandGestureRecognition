@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+.VirEnv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Dataset & model artifacts
+model/keypoint_classifier/keypoint.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
